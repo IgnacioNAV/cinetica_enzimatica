@@ -37,7 +37,7 @@ Genera:
 #### Especificar parámetros explícitamente:
 
 
- >   simulate_v0.py --model michaelis --vmax 7.0 --km 2.0 --hill_coeff 1.5 --substrates 0.1 0.5 1 2 5 10 20 --replicates 3 --noise_scale 0.3--seed 42 --inhibitor_type none --inhibitor_conc 0.0 --ki_inhibitor 0.0 --substrate_inhibition_ki 10.0 --output simulated_activity_data.csv --metadata_file simulation_metadata.json --quick_plot
+ >   simulate_v0.py --model michaelis --vmax 7.0 --km 2.0 --hill_coeff 1 --substrates 0.1 0.5 1 2 5 10 20 --replicates 3 --noise_scale 0.3--seed 42 --inhibitor_type none --inhibitor_conc 0.0 --ki_inhibitor 0.0 --substrate_inhibition_ki 10.0 --output simulated_activity_data.csv --metadata_file simulation_metadata.json --quick_plot
 
 #### Modelo Hill:
 
