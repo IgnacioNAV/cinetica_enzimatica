@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Script para simular datos de actividad enzimática bajo diferentes modelos cinéticos y condiciones de inhibición.
-Genera un archivo CSV con los datos, un archivo JSON con metadatos, y opcionalmente una gráfica rápida.
 """
 
 import numpy as np
