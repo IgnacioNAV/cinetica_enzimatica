@@ -1,4 +1,4 @@
-#  Cinética enzimática - Herramientas de análisis en Python
+#  Cinética enzimática - Herramientas de análisis y visualización en Python
 
 ## simulate_v0.py: Simulador de datos de actividad enzimática
 
@@ -83,5 +83,6 @@ Ejemplo parametros.json:
 }
 
 ## graph-saturation_v0.py
-
+--- En construcción ---
 ## model-selection_v0.py
+--- En construcción ---
