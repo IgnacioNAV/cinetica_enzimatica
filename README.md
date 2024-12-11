@@ -1,4 +1,4 @@
-# Simulador de datos de actividad enzimática
+# Simulador de datos de actividad enzimática v0
 
 El script (`simulate_v0.py`) permite generar datos simulados de actividad enzimática frente a distintas concentraciones de sustrato. Permite agrega ruido aleatorio para emular condiciones experimentales, permite exportar datos en formato CSV, guardar metadatos en JSON y, crear una gráfica. Requiere una versión de Python >3.6, y los paquetes NumPy, Pandas y Matplotlib.
 
