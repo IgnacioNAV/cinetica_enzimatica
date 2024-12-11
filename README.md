@@ -67,7 +67,7 @@ Ejemplo parametros.json:
   "model": "hill",
   "vmax": 10.0,
   "km": 3.0,
-  "hill_coeff": 2.0,
+  "hill_coeff": 1.0,
   "substrates": [0.2, 0.5, 1, 2, 5],
   "replicates": 4,
   "noise_scale": 0.2,
