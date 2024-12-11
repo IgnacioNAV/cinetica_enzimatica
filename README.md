@@ -20,7 +20,7 @@ El script (`simulate_v0.py`) permite generar datos simulados de actividad enzim�
   - Añade ruido gaussiano controlado por `noise_scale`.
 
 - **Gráfica rápida:**
-  - Generación de una gráfica PNG con barras de error.
+  - Generación de una gráfica de la curva de saturación simulada, con barras de error.
 
 ### Ejemplos de Uso
 
