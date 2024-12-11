@@ -12,21 +12,15 @@ El script (`simulate_v0.py`) permite generar datos simulados de actividad enzim�
   - Inhibición por sustrato
 
 - **Tipos de inhibición:**
-  - Sin inhibidor.
   - Inhibición competitiva.
   - Inhibición no competitiva.
   - Inhibición acompetitiva.
-
-- **Entrada y salida:**
-  - Parámetros desde la línea de comandos.
-  - Carga de parámetros desde un archivo JSON.
-  - Datos en formato “ancho” (columna por réplica) o “largo” (una fila por réplica).
 
 - **Ruido experimental:**
   - Añade ruido gaussiano controlado por `noise_scale`.
 
 - **Gráfica rápida:**
-  - Generación opcional de una gráfica PNG con barras de error.
+  - Generación de una gráfica PNG con barras de error.
 
 ### Ejemplos de Uso
 
