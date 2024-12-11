@@ -83,6 +83,8 @@ Ejemplo parametros.json:
 }
 
 ## graph-saturation_v0.py
+El script (`graph-saturation_v0.py`) permite ajustar datos de actividad enzimátiza, a los modelos de Michaelis-Menten, de Hill o de inhibición por sustrato. Grafica la curvas de saturación, incluyendo sus residuales, y genera tablas de los parámetros ajustados.
 --- En construcción ---
 ## model-selection_v0.py
+El script (`model-selection_v0.py`) permite ajustar datos de actividad enzimátiza, seleccionando entre los modelos de Michaelis-Menten, de Hill y de inhibición por sustrato mediante el criterio de información de Akaike. Grafica las curvas de saturación para cada modelo, incluyendo sus residuales y genera tablas de los parámetros ajustados para cada modelo como también de los valores del criterio de información de Akaike.
 --- En construcción ---
